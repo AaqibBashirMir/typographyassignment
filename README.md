@@ -1,2 +1,2 @@
 REPO LINK:-https://github.com/AaqibBashirMir/typographyassignment <br>
-HOSTED LINK:-
+HOSTED LINK:-https://aaqibbashirmir.github.io/typographyassignment/
